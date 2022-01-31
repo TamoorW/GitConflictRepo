@@ -1,5 +1,6 @@
 # GitConflictRepo
 
-###Hello World
-
-# Tamoor
+ssss
+My name is Chris
+ssssss
+sss
